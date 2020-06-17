@@ -6,3 +6,4 @@ SQL Course and examples
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/relationaldb.png)
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/tablerelations.png)
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/ERD.png)
+SQL Select Statement Review [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/selectstatement.sql)
