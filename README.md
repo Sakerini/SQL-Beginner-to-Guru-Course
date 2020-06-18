@@ -10,6 +10,12 @@ SQL Min and Max Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru
 SQL AVG Function Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/avg.sql)  
 Assignment - Write SQL Report for Salary Information by Year Excluding Managers [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/assingment1.sql)  
 SQL Inner Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/innerjoin.sql)  
+SQL Natural Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/naturaljoin.sql)  
+SQL Equi Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/equijoin.sql)  
+SQL Union Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/unionjoin.sql)  
+SQL Left Outer Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/leftouterjoin.sql)  
+Assignment - Write LEFT Outer Join [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/leftjoinassingment.sql)  
+
 
 
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/whatisdb.png)
