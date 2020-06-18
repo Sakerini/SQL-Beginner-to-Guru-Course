@@ -9,6 +9,7 @@ SQL Sum Function Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Gur
 SQL Min and Max Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/minandmax.sql)  
 SQL AVG Function Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/avg.sql)  
 Assignment - Write SQL Report for Salary Information by Year Excluding Managers [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/assingment1.sql)  
+SQL Inner Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/innerjoin.sql)  
 
 
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/whatisdb.png)
@@ -17,3 +18,5 @@ Assignment - Write SQL Report for Salary Information by Year Excluding Managers 
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/tablerelations.png)
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/ERD.png)
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/agrfunc.png)
+![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/typejoins.png)
+![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/joinsyntax.png)
