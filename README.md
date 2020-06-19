@@ -15,6 +15,7 @@ SQL Equi Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-C
 SQL Union Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/unionjoin.sql)  
 SQL Left Outer Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/leftouterjoin.sql)  
 Assignment - Write LEFT Outer Join [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/leftjoinassingment.sql)  
+SQL Insert Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/insertingnewempl.sql)  
 
 
 
