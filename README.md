@@ -17,7 +17,7 @@ SQL Left Outer Join Examples [here](https://github.com/Sakerini/SQL-Beginner-to-
 Assignment - Write LEFT Outer Join [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/leftjoinassingment.sql)  
 SQL Insert Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/insertingnewempl.sql)  
 SQL Update Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/update.sql)  
-SQL Delete Examples 
+SQL Delete Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/delete.sql)  
 Assignment - CRUD [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/crud.sql)  
 
 
