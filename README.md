@@ -20,6 +20,7 @@ SQL Update Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Cour
 SQL Delete Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/delete.sql)  
 Assignment - CRUD [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/crud.sql)  
 SQL Transactions Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/transactions.sql)  
+MySQL Variable Definition Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/definevarmysql.sql)  
 
 
 
