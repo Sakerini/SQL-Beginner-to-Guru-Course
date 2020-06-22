@@ -28,7 +28,7 @@ SQL DDL View Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Cou
 SQL Create Table with Select Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtableselect.sql)  
 SQL Truncate Table Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/truncatetable.sql)  
 SQL Drop Table Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/droptable.sql)  
-SQL Create Table Auto Increment Primary Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/droptable.sql)  
+SQL Create Table Auto Increment Primary Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/autoincrementpk.sql)  
 SQL Create Table Foreign Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtablefk.sql)  
 SQL Create Table Unique Key and Index Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/uniqueindex.sql)  
 Assignment - SQL Create Table [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtableassingment.sql)  
