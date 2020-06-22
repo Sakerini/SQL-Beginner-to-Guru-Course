@@ -32,8 +32,12 @@ SQL Create Table Auto Increment Primary Key Example [here](https://github.com/Sa
 SQL Create Table Foreign Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtablefk.sql)  
 SQL Create Table Unique Key and Index Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/uniqueindex.sql)  
 Assignment - SQL Create Table [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtableassingment.sql)  
-
-
+SQL Alter Table add and drop Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertableadddrop.sql)  
+SQL Alter Table reorder Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertablereorder.sql)  
+SQL Alter Table add and remove index Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertableaddremoveindex.sql)  
+SQL Alter Table add and drop Foreign Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertablefkadddrop.sql)  
+Assignment - add col. using alter table [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertableassingment.sql)  
+SQL Alter Table for MySQL Generated Columns Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/altertablegencol.sql)  
 
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/whatisdb.png)
 ![](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/Docs/characteristicofdata.png)
