@@ -1,0 +1,1 @@
+truncate table orders2; -- drops and recreate table very fast

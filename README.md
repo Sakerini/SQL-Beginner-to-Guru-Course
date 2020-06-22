@@ -21,6 +21,17 @@ SQL Delete Examples [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Cour
 Assignment - CRUD [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/crud.sql)  
 SQL Transactions Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/transactions.sql)  
 MySQL Variable Definition Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/definevarmysql.sql)  
+Advanced Report Assignment Example 1 [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/ordersreport.sql)  
+Advanced Report Assignment Example 2 [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/salesreport.sql)  
+Advanced Report Assignment Example 3 [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/salesreport2.sql)  
+SQL DDL View Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/view.sql)  
+SQL Create Table with Select Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtableselect.sql)  
+SQL Truncate Table Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/truncatetable.sql)  
+SQL Drop Table Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/droptable.sql)  
+SQL Create Table Auto Increment Primary Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/droptable.sql)  
+SQL Create Table Foreign Key Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtablefk.sql)  
+SQL Create Table Unique Key and Index Example [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/uniqueindex.sql)  
+Assignment - SQL Create Table [here](https://github.com/Sakerini/SQL-Beginner-to-Guru-Course/blob/master/createtableassingment.sql)  
 
 
 
